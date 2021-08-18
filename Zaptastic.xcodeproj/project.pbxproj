@@ -20,6 +20,7 @@
 		590F009626BE281800A42366 /* Wave.swift in Sources */ = {isa = PBXBuildFile; fileRef = 590F009526BE281800A42366 /* Wave.swift */; };
 		590F009826BE293300A42366 /* Bundle-Decoding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 590F009726BE293300A42366 /* Bundle-Decoding.swift */; };
 		590F009A26BE2C8500A42366 /* EnemyNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 590F009926BE2C8500A42366 /* EnemyNode.swift */; };
+		591AA5FE26CCA7840063644D /* Explosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = 591AA5FD26CCA7840063644D /* Explosion.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		590F009526BE281800A42366 /* Wave.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wave.swift; sourceTree = "<group>"; };
 		590F009726BE293300A42366 /* Bundle-Decoding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decoding.swift"; sourceTree = "<group>"; };
 		590F009926BE2C8500A42366 /* EnemyNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnemyNode.swift; sourceTree = "<group>"; };
+		591AA5FD26CCA7840063644D /* Explosion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Explosion.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				590F006626BE08A100A42366 /* AppDelegate.swift */,
 				590F006826BE08A100A42366 /* GameScene.sks */,
 				590F006C26BE08A100A42366 /* GameScene.swift */,
+				591AA5FD26CCA7840063644D /* Explosion.sks */,
 				590F009926BE2C8500A42366 /* EnemyNode.swift */,
 				590F006E26BE08A100A42366 /* GameViewController.swift */,
 				590F007026BE08A100A42366 /* Main.storyboard */,
@@ -150,6 +153,7 @@
 				590F008E26BE0B3100A42366 /* Starfield.sks in Resources */,
 				590F007426BE08A100A42366 /* Assets.xcassets in Resources */,
 				590F009226BE271100A42366 /* waves.json in Resources */,
+				591AA5FE26CCA7840063644D /* Explosion.sks in Resources */,
 				590F009126BE271100A42366 /* enemy-types.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
